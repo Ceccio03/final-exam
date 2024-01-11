@@ -1,0 +1,14 @@
+.country-list-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+app-card {
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin: 16px;
+}
